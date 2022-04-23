@@ -1,0 +1,26 @@
+.input-body{
+    height:8em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    padding:17px;
+}
+
+.result2{
+    flex:1;
+    width:410px;
+    text-align: right;
+    font-size: 40px;
+    border-radius: 20px;
+    box-shadow: 3px 4px rgb(0, 0, 0);
+}
+
+
+
+.result{
+    flex:1;
+    color:#000;
+    font-weight: 700;
+    text-align: center;
+}
